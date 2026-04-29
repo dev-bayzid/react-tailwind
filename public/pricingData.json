@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "name": "Basic Plan",
+    "price": 15,
+    "description": "Beginner-friendly plan for starting your fitness journey.",
+    "features": [
+      "Access to gym equipment",
+      "Free locker usage",
+      "1 group class per week",
+      "Basic fitness guidance",
+      "Access during off-peak hours",
+      "Clean drinking water facility",
+      "Workout area access only"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Standard Plan",
+    "price": 30,
+    "description": "Balanced plan for regular gym members with structured training.",
+    "features": [
+      "Unlimited gym access",
+      "All group classes included",
+      "Personal workout plan",
+      "Free locker & shower",
+      "Monthly progress tracking",
+      "Access to cardio & strength zones",
+      "Diet consultation once per month",
+      "Priority equipment access over Basic members"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Premium Plan",
+    "price": 50,
+    "description": "Advanced plan for serious fitness enthusiasts who want full support.",
+    "features": [
+      "24/7 gym access",
+      "1-on-1 personal trainer sessions",
+      "Custom diet plan with weekly updates",
+      "Unlimited group classes",
+      "Priority equipment access",
+      "Weekly body composition analysis",
+      "Sauna & recovery zone access",
+      "Supplement guidance",
+      "Dedicated workout tracking app support",
+      "Guest pass (bring 1 friend per month)"
+    ]
+  }
+]
