@@ -43,14 +43,14 @@ const Navbar = () => {
 
   return (
     <nav className="flex justify-between mx-10 mt-4 font-bold text-2xl">
-      <span className="flex" onClick={() => setOpen(!open)}>
+      <span className="flex items-center" onClick={() => setOpen(!open)}>
         {open ? (
           <X className="md:hidden"></X>
         ) : (
           <Menu className="md:hidden"></Menu>
         )}
 
-        <ul className={`md:hidden absolute duration-1000 ${open? 'top-8' : '-top-40'}
+        <ul className={`md:hidden absolute duration-1000 ${open? 'top-14' : '-top-40'}
         bg-amber-200
         `}>
             {links}

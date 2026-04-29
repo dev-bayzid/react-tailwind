@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Basic Plan",
-    "price": 15,
+    "price": "$15 / month",
     "description": "Beginner-friendly plan for starting your fitness journey.",
     "features": [
       "Access to gym equipment",
@@ -17,7 +17,7 @@
   {
     "id": 2,
     "name": "Standard Plan",
-    "price": 30,
+    "price": "$30 / month",
     "description": "Balanced plan for regular gym members with structured training.",
     "features": [
       "Unlimited gym access",
@@ -27,13 +27,14 @@
       "Monthly progress tracking",
       "Access to cardio & strength zones",
       "Diet consultation once per month",
-      "Priority equipment access over Basic members"
+      "Priority equipment access",
+      "Basic supplement guidance"
     ]
   },
   {
     "id": 3,
     "name": "Premium Plan",
-    "price": 50,
+    "price": "$50 / month",
     "description": "Advanced plan for serious fitness enthusiasts who want full support.",
     "features": [
       "24/7 gym access",
@@ -44,8 +45,8 @@
       "Weekly body composition analysis",
       "Sauna & recovery zone access",
       "Supplement guidance",
-      "Dedicated workout tracking app support",
-      "Guest pass (bring 1 friend per month)"
+      "Workout tracking app support",
+      "Guest pass (1 friend per month)"
     ]
   }
 ]
